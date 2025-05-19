@@ -1,0 +1,4 @@
+to,type,content
+1234567890,text,Hello! This is a test message
+9876543210,text,Another test message with {{name}} template
+5555555555,text,Final test message

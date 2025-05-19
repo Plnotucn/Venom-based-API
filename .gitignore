@@ -1,0 +1,58 @@
+**/.claude/settings.local.json
+
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.production
+.env.test
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Session data
+sessions/
+
+# PM2
+.pm2/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build files
+dist/
+build/
+
+# Temporary files
+tmp/
+temp/
+.tmp/
+
+# Coverage directory
+coverage/
+
+# Test files
+*.test.js
+*.spec.js
+
+# Docker files (optional)
+docker-compose.override.yml

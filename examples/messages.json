@@ -1,0 +1,24 @@
+[
+  {
+    "to": "1234567890",
+    "type": "text",
+    "content": "Hello {{name}}! This is a personalized message.",
+    "templateData": {
+      "name": "John Doe"
+    }
+  },
+  {
+    "to": "9876543210",
+    "type": "image",
+    "path": "/path/to/image.jpg",
+    "caption": "Check out this image, {{name}}!",
+    "templateData": {
+      "name": "Jane Smith"
+    }
+  },
+  {
+    "to": "5555555555",
+    "type": "text",
+    "content": "This is a simple text message without template"
+  }
+]
