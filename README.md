@@ -25,7 +25,7 @@ A production-ready WhatsApp API built on venom-bot that provides enterprise-grad
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/venommm.git
+git clone https://github.com/plnotucn/venom-based-API.git
 cd venommm
 
 # Install dependencies
